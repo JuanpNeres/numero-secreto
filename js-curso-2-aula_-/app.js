@@ -11,7 +11,7 @@ function ExibirChuteNaTela(tag, texto) {
 
 function mensagemInicial() {
     ExibirChuteNaTela('h1', 'Jogo do número secreto');
-    ExibirChuteNaTela('p', 'Escolha um número entre 1 e 100');
+    ExibirChuteNaTela('p', 'Descubra o número secreto que está entre 1 e 100');
 }
 
 mensagemInicial();
